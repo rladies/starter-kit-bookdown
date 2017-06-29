@@ -1,0 +1,7 @@
+book_filename: "rladies-starter-kit"
+chapter_name: "Chapter "
+repo: https://github.com/rladies/starter-kit-bookdown
+output_dir: docs
+rmd_files: ["index.Rmd", "01-Introduction.Rmd", "02-Current-Chapters.Rmd"]
+clean: [packages.bib, bookdown.bbl]
+new_session: yes
