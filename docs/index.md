@@ -1,7 +1,7 @@
 --- 
 title: "R-Ladies Starter-Kit"
 author: "R-Ladies"
-date: "2017-06-29"
+date: "2017-06-30"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
