@@ -580,9 +580,9 @@ Marianna Foos (@mfoos)
 
 ### Minnesota
 
-**Minneapolis**
+**Minneapolis/Saint Paul**
 
-Organizer: somewhat inactive, looking for new organizers to help host events
+Christina Knudson, Kierstin Catlett
 
 - meetup: [http://www.meetup.com/RLadiesTC/](http://www.meetup.com/RLadiesTC/)
 - twitter: [https://twitter.com/RLadiesTC](https://twitter.com/RLadiesTC])
